@@ -20,7 +20,7 @@ public class reverse {
         System.out.println();
         int reversed_number = reverser(number);
 
-        System.out.println("Reversed Number is :"+reversed_number);
+        System.out.println("Reversed Number is => "+reversed_number);
         sc.close();
 
     }
